@@ -39,7 +39,7 @@ img = Image.open('img.png')
 st.image(img,width=300)
 st.title("COVID-19 Contact Tracing App")
 # Text input for the name
-name = st.text_input("Enter your name:").capitalize();
+name = st.text_input("Enter your name:").capitalize()
 
 if name:
     # Check if the name exists in the dataset

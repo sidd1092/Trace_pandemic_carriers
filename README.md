@@ -1,1 +1,1 @@
-# Civiod-19-Contact-Tracing-App-Using-DBSCAN
+# Contact-Tracing-App-Using-DBSCAN
